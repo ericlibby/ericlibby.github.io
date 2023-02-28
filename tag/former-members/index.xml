@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Former members | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/former-members/</link>
+      <atom:link href="http://ericlibby.github.io/tag/former-members/index.xml" rel="self" type="application/rss+xml" />
+    <description>Former members</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Former members</title>
+      <link>http://ericlibby.github.io/tag/former-members/</link>
+    </image>
+    
+    <item>
+      <title>Umeå University former members</title>
+      <link>http://ericlibby.github.io/people/former/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/former/</guid>
+      <description>&lt;p&gt;Here is a list of those who have moved on&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;masters-students&#34;&gt;Masters students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alfred Leimar (Technical Physics master’s thesis: “The evolutionary origins of phagocytosis in microbial populations”, 2022)&lt;/li&gt;
+&lt;li&gt;Cordelia Horns (Technical Physics master’s thesis: “Detecting Social Breathing: Quantitative signs of interaction in conversational data”, 2022)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

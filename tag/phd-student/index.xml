@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD student | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/phd-student/</link>
+      <atom:link href="http://ericlibby.github.io/tag/phd-student/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD student</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>PhD student</title>
+      <link>http://ericlibby.github.io/tag/phd-student/</link>
+    </image>
+    
+    <item>
+      <title>Hanna Isaksson</title>
+      <link>http://ericlibby.github.io/people/hanna/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/hanna/</guid>
+      <description>&lt;p&gt;Hanna started her PhD in Fall 2019. She is based at Icelab and the Umeå University Mathematics Department. Her studies focus on understanding the evolution of multicellular life cycles and in particular how their early structure influences adaptation. She enjoys playing the organ and bird-watching among other things.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rebecka Andersson</title>
+      <link>http://ericlibby.github.io/people/rebecka/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/rebecka/</guid>
+      <description>&lt;p&gt;Rebecka joined Umeå University’s Mathematics Department for her PhD in April 2020, based at the interdisciplinary IceLab. Her project will tackle the origins of eukaryotic endosymbiosis using mathematical models that connect physiological cell constraints with ecological population structures. She likes to go swing dancing in her spare time.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PI | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/pi/</link>
+      <atom:link href="http://ericlibby.github.io/tag/pi/index.xml" rel="self" type="application/rss+xml" />
+    <description>PI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>PI</title>
+      <link>http://ericlibby.github.io/tag/pi/</link>
+    </image>
+    
+    <item>
+      <title>Eric Libby</title>
+      <link>http://ericlibby.github.io/people/eric/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/eric/</guid>
+      <description>&lt;p&gt;Eric joined Umeå University at the end of 2017 and splits his time between the Mathematics Department and the interdisciplinary research environment IceLab. He is captivated by the diverse spectrum of life and seeks general principles and fundamental theory that explain its emergence and evolution. He likes cooking, hiking, and connecting with nature.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Postdoc | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/postdoc/</link>
+      <atom:link href="http://ericlibby.github.io/tag/postdoc/index.xml" rel="self" type="application/rss+xml" />
+    <description>Postdoc</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Postdoc</title>
+      <link>http://ericlibby.github.io/tag/postdoc/</link>
+    </image>
+    
+    <item>
+      <title>Josephine Solowiej-Wedderburn</title>
+      <link>http://ericlibby.github.io/people/josephine/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/josephine/</guid>
+      <description>&lt;p&gt;Josephine got her PhD in mechanobiology at the University of Surrey, UK. Now, she uses metabolic models to explore the impact of environmental conditions on microbial cooperation. She enjoys swing dancing, hiking and drinking endless cups of tea. She is excited for the Swedish winters and all the magic they hold.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lucas Santana Souza</title>
+      <link>http://ericlibby.github.io/people/lucas/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/lucas/</guid>
+      <description>&lt;p&gt;Lucas is an evolutionary biologist who uses mathematical models and computer simulations to study social evolution across biological scales. He completed his PhD at the University of Tennessee, USA. Now, he focuses on a key event during the evolution of life, endosymbiosis.  He loves coffee and sweets, making him a fan of Swedish Fika.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

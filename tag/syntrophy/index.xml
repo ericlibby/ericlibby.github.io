@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntrophy | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/syntrophy/</link>
+      <atom:link href="http://ericlibby.github.io/tag/syntrophy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Syntrophy</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Syntrophy</title>
+      <link>http://ericlibby.github.io/tag/syntrophy/</link>
+    </image>
+    
+    <item>
+      <title>Syntrophy and microbial trade</title>
+      <link>http://ericlibby.github.io/project/syntrophy/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/project/syntrophy/</guid>
+      <description>&lt;p&gt;Microbes live in complex communities where goods such as metabolites are produced and exchanged. These communities often exhibit division of labor and can allow a community to live in environments where no single organism could. Since these microbial relationships can persist across generations, they can be viewed as an alternative to a multicellular lifestyle. Understanding the evolution of these trading communities provides a clearer picture of the different routes by which life increases in complexity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

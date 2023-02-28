@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biosignatures | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/biosignatures/</link>
+      <atom:link href="http://ericlibby.github.io/tag/biosignatures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biosignatures</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Biosignatures</title>
+      <link>http://ericlibby.github.io/tag/biosignatures/</link>
+    </image>
+    
+    <item>
+      <title>Agnostic biosignatures</title>
+      <link>http://ericlibby.github.io/project/agnostic-biosignatures/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/project/agnostic-biosignatures/</guid>
+      <description>&lt;p&gt;We are members of The Laboratory for Agnostic Biosignatures (&lt;a href=&#34;https://www.agnosticbiosignatures.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LAB&lt;/a&gt;) which is developing techniques to detect new forms of life in the universe. Funded by the NASA Astrobiology Program, the LAB team includes biologists, chemists, computer scientists, mathematicians, and instrument engineers. The team&amp;rsquo;s aim is to identify possible signs of life&amp;mdash;and ways of detecting them&amp;mdash;that are not constrained by how we understand life on earth. For example, living organisms on Earth  produce a complex set of molecular compounds in order to maintain themselves and reproduce. While life elsewhere may not use the exact same compounds or subset of them, we might expect a certain amount of molecular complexity to be a feature and biosignature of life anywhere. Thus, one area of investigation for our team is the chemical complexity generated in biotic and abiotic processes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

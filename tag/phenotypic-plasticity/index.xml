@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phenotypic plasticity | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/phenotypic-plasticity/</link>
+      <atom:link href="http://ericlibby.github.io/tag/phenotypic-plasticity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phenotypic plasticity</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Phenotypic plasticity</title>
+      <link>http://ericlibby.github.io/tag/phenotypic-plasticity/</link>
+    </image>
+    
+    <item>
+      <title>Bet hedging and phenotypic plasticity</title>
+      <link>http://ericlibby.github.io/project/bet-hedging/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/project/bet-hedging/</guid>
+      <description>&lt;p&gt;Many microbes have evolved the capacity to switch between at least two phenotypic states. While some switching is in response to a signal such as environmental change; other switching occurs preemptively without any apparent signals. This second type of switching can be understood in the context of bet hedging. Microbes that produce a phenotype that is initially costly or maladapted may gain a benefit should the environment change unpredictably. In particular, microbes that switch phenotypes can survive challenging, fluctuating environments like those that might occur during an antibiotic regimen. We are interested in the mechanisms and drivers of phenotype switching&amp;mdash;especially how seemingly random switching might evolve into a regulated part of an organism&amp;rsquo;s life cycle.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

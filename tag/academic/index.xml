@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/academic/</link>
+      <atom:link href="http://ericlibby.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>http://ericlibby.github.io/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>We are recruiting a PhD student</title>
+      <link>http://ericlibby.github.io/news/recruit_phd/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/news/recruit_phd/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The Department of Mathematics and Mathematical Statistics is opening a PhD position in computational science and engineering with a specialization in mathematics and a focus on modeling the evolution of developmental programs in early multicellular organisms. The position covers four years of third-cycle studies, including participation in research and third-cycle courses. The last day to apply is April 2, 2023.&lt;/p&gt;
+&lt;h2 id=&#34;apply-here&#34;&gt;Apply here&lt;/h2&gt;
+&lt;p&gt;Apply &lt;a href=&#34;https://umu.varbi.com/en/what:job/jobID:593579/type:job/where:4/apply:1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;project-description-and-tasks&#34;&gt;Project description and tasks&lt;/h2&gt;
+&lt;p&gt;The evolution of multicellular organisms has fundamentally shaped the biosphere by giving rise to complex forms of life that can operate across tremendous scales. Yet, not all forms of multicellularity are the same: some have hundreds of types of cells arranged in intricate body plans, while others are simple balls of undifferentiated cells. Though there may not be a single feature explaining such differences in complexity, one striking candidate is the presence/absence of a developmental program. Developmental programs connect the function of cells or the expression of phenotypes to information and thus enable the construction of elaborate structures from a single template. The field of evolutionary developmental biology has revealed how changes to developmental programs can produce diverse types of multicellular life, but this requires the a priori existence of some type of development program. We do not know how such multicellular developmental programs originate, and tackling this problem is the purpose of this Swedish Research Council-funded PhD position. The PhD student will address this problem using a variety of mathematical modeling techniques, including systems of differential equations and evolutionary simulations. The proposed work will feature interdisciplinary projects as part of a collaborative team.&lt;/p&gt;
+&lt;h2 id=&#34;qualifications&#34;&gt;Qualifications&lt;/h2&gt;
+&lt;p&gt;The PhD student will be admitted to third-cycle studies in computational science and engineering (CSE) with a specialization in mathematics.&lt;/p&gt;
+&lt;p&gt;To be admitted to studies at third-cycle level the applicant is required to have completed a second- cycle level degree or completed course requirements of at least 240 credits, of which at least 60 credits are at second-cycle level, or have an equivalent education from overseas or equivalent qualifications.&lt;/p&gt;
+&lt;p&gt;To fulfill the specific entry requirements to be admitted to studies at third-cycle level in CSE, the applicant is required to have completed at least 90 credits in computational science and engineering courses, of which at least 30 credits shall have been acquired at second-cycle level. CSE courses refer to courses with major quantitative, statistical or computing science elements, such as courses in computing science, mathematics and mathematical statistics. Applicants who, in some other system either within Sweden or abroad, have acquired largely equivalent skills are also eligible.&lt;/p&gt;
+&lt;p&gt;Candidates need to be highly skilled in both oral and written communication in English, and must be able to work independently as well as part of an interdisciplinary collaborative team.&lt;/p&gt;
+&lt;p&gt;Candidates also need to have proficiency in working with computers and programming, e.g. in Matlab, Python, Julia, C++, etc. A good background in mathematics, modeling, differential equations, computer science, and/or programming is qualifying. Interest in and knowledge of evolutionary biology, microbiology, and/or molecular biology are desirable but not necessary.&lt;/p&gt;
+&lt;p&gt;The PhD student is expected to play an active role in developing this doctoral project and in the department. In addition, the PhD student is expected to have a scientific, structured, flexible, and result-oriented approach to their work.&lt;/p&gt;
+&lt;p&gt;The assessments of the applicants are based on their qualifications and their ability to benefit from the doctoral-level education they will receive.&lt;/p&gt;
+&lt;h2 id=&#34;about-the-employment&#34;&gt;About the employment&lt;/h2&gt;
+&lt;p&gt;The position is intended to result in a doctoral degree. The main task of the PhD student is to pursue their doctoral studies, including participation in research and doctoral courses. The duties can include teaching and other departmental work (up to a maximum of 20%). The employment is limited to the equivalent of four years of full-time (48 months) or up to five years for teaching part-time. Salary is set in accordance with the established salary levels for PhD position. The employment starts in the fall of 2023 or according to an agreement.&lt;/p&gt;
+&lt;h2 id=&#34;application&#34;&gt;Application&lt;/h2&gt;
+&lt;p&gt;You apply via our e-recruitment system Varbi. Log in and apply via the button at the bottom of the page. The deadline for applications is April 2, 2023.&lt;/p&gt;
+&lt;p&gt;The application should include the following documents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;a personal letter with a brief description of qualifications, research interests, motivations specific to this project or research area, and contact information (1-2 pages)&lt;/li&gt;
+&lt;li&gt;a curriculum vitae&lt;/li&gt;
+&lt;li&gt;authenticated copies of degree certificates, diplomas or equivalent, including documentation of completed academic courses, received grades, and other certificates.&lt;/li&gt;
+&lt;li&gt;copies of relevant work such as master’s thesis or articles you have authored or co-authored. If the master’s thesis has not been completed before the application deadline, a summary of the master’s thesis project and current progress shall be included. The summary can, at most be five pages, including figures and references.&lt;/li&gt;
+&lt;li&gt;Your GMAT (or GRE) and TOEFL/IELTS test scores if available.&lt;/li&gt;
+&lt;li&gt;Contact details for at least two reference persons.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Department of Mathematics and Mathematical Statistics values the qualities that gender balance brings to the department. We are therefore particularly keen to hear from female applicants.&lt;/p&gt;
+&lt;p&gt;Pursuant to Chapter 12 Section 2 of the Swedish Higher Education Ordinance (SFS 1993:100), the decision regarding the position cannot be appealed.&lt;/p&gt;
+&lt;p&gt;Further information
+Further information is provided by Associate Professor Eric Libby.  You can also contact the Head of Department Åke Brännström for additional questions.&lt;/p&gt;
+&lt;p&gt;Further information about the Department of Mathematics and Mathematical Statistics:
+&lt;a href=&#34;https://www.umu.se/en/department-of-mathematics-and-mathematical-statistics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.umu.se/en/department-of-mathematics-and-mathematical-statistics/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Umeå University strives to offer an equal environment where open dialogue between people with different backgrounds and perspectives lay the foundation for learning, creativity and development. We welcome people with different backgrounds and experiences to apply for the current employment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fundamental mathematical models in evolution</title>
+      <link>http://ericlibby.github.io/teaching/fundamental_models/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/teaching/fundamental_models/</guid>
+      <description>&lt;h2 id=&#34;phd-course-fundamental-mathematical-models-in-evolution-course-coordinator&#34;&gt;PhD course Fundamental mathematical models in evolution (Course coordinator)&lt;/h2&gt;
+&lt;p&gt;This is a doctoral course aimed to provide a broad survey of well-known mathematical models in evolution. Emphasis is placed on understanding the basic formulation of each model, its underlying assumptions, its key results, and possible extensions. The course is inherently interdisciplinary and its intended audience is PhD students from mathematical and computational sciences as well as those from evolution and/or ecology. To facilitate student learning, after each lecture students were tasked with finding a relevant publication and giving a formal presentation on its motivation and use of the discussed mathematical model. Students would take turns presenting to one another in small groups and all presentations would be shared in a common directory.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: Exponential growth&lt;/li&gt;
+&lt;li&gt;Lecture 2: Price equation&lt;/li&gt;
+&lt;li&gt;Lecture 3: Fitness landscapes&lt;/li&gt;
+&lt;li&gt;Lecture 4: Hamilton&amp;rsquo;s rule&lt;/li&gt;
+&lt;li&gt;Lecture 5: Evolutionary game theory&lt;/li&gt;
+&lt;li&gt;Lecture 6: Trait groups&lt;/li&gt;
+&lt;li&gt;Lecture 7: Models of neutral evolution&lt;/li&gt;
+&lt;li&gt;Lecture 8: Evolutionary graph theory&lt;/li&gt;
+&lt;li&gt;Lecture 9: Adaptive dynamics&lt;/li&gt;
+&lt;li&gt;Lecture 10: Error castastrophes and quasispecies&lt;/li&gt;
+&lt;li&gt;Lecture 11: NK model&lt;/li&gt;
+&lt;li&gt;Lecture 12: Cellular automata and digital evolution (AVIDA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>We are recruiting a postdoc</title>
+      <link>http://ericlibby.github.io/news/recruit_postdoc/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/news/recruit_postdoc/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.umu.se/personal/peter-lind/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Lind&lt;/a&gt; and I have a postdoc project available as part of the &lt;a href=&#34;https://www.umu.se/en/ucmr/ec-postdoc-programme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;Excellence by Choice&amp;rsquo;&lt;/a&gt; postdoctoral program. The project looks at how horizontal gene transfer affects genetic regulation in microbial communities. We are looking for someone interested in building theoretical/mathematical models to explore this fascinating topic. Apply by March 19.&lt;/p&gt;
+&lt;h2 id=&#34;apply-here&#34;&gt;Apply here&lt;/h2&gt;
+&lt;p&gt;Apply &lt;a href=&#34;https://www.umu.se/en/ucmr/ec-postdoc-programme/excellence-by-choice-postdoctoral-programme-in-life-science/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Horizontal gene transfer plays an important role in shaping microbial community structure and facilitating short-term adaptation to stressful environments, but it can also alter the structure and regulation of key genetic pathways. By using theoretical models, we aim to model the dynamics of horizontal gene transfer in microbes exposed to periodic stress in order to better understand the resulting impact of horizontal genetic transfer on genetic architecture and the mechanisms of cell decision making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Differential Equations</title>
+      <link>http://ericlibby.github.io/teaching/differential_equations/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/teaching/differential_equations/</guid>
+      <description>&lt;p&gt;This is the basic course &lt;a href=&#34;https://www.umu.se/utbildning/kursplan/5ma121/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5MA121&lt;/a&gt; in differential equations aimed at second year students. The course covers the formulating and solving first and second order ordinary differential equations. Additional topics include nonlinear dynamics, the Laplace transform, Fourier series, and an introduction to solving partial differential equations. Emphasis is placed on teaching students different ways to model physical and biological systems with differential equations. Students are evaluated by exams and a computer lab that requires the students to use MATLAB to numerically solve differential equations.&lt;/p&gt;
+&lt;p&gt;The primary text is &lt;em&gt;Elementary Differential Equations and Boundary Value Problems 2017 edition&lt;/em&gt; by William Boyce (ISBN 9781119382874). Additional material is drawn from &lt;em&gt;Nonlinear Dynamics and Chaos&lt;/em&gt; by Steven Strogatz and &lt;em&gt;Understanding Nonlinear Dynamics&lt;/em&gt; by Daniel Kaplan and Leon Glass.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial economics</title>
+      <link>http://ericlibby.github.io/teaching/industrial_economics/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/teaching/industrial_economics/</guid>
+      <description>&lt;p&gt;This is a thesis course &lt;a href=&#34;https://www.umu.se/utbildning/kursplan/5MA145&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5MA145&lt;/a&gt; for a master&amp;rsquo;s degree in industrial economics. The students set up a collaborative project with a company and conduct independent work within one of the areas of the industrial economics education. I serve as the academic mentor to the thesis with regular meetings to help the student produce an appropriate thesis.&lt;/p&gt;
+&lt;p&gt;Here are some of my students:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;William Fritzell (2023) Work in progress at Lloyds Bank in Amsterdam&lt;/li&gt;
+&lt;li&gt;Moa Nordin (2022) “Scenario based warehousing simulation in a low volume/high-mix” at  Bosch Rexroth Mellansel&lt;/li&gt;
+&lt;li&gt;Elias Björklund (2021) “Trading strategies based on a pattern detection algorithm” at Amplify Capital&lt;/li&gt;
+&lt;li&gt;Julia Karlsson &amp;amp; Moa Sjöström (2020) “Forecasts of PMI” at Nordea&lt;/li&gt;
+&lt;li&gt;Lovisa Westerlund &amp;amp; Ioanna Kalpakidou (2019) “An Optimization of a Retailer&amp;rsquo;s Allocation Algorithm: MRP and Demand Forecasting Cosmetic Products” at a Swedish retail company&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>http://ericlibby.github.io/teaching/linear_algebra/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/teaching/linear_algebra/</guid>
+      <description>&lt;p&gt;This is the basic course &lt;a href=&#34;https://www.umu.se/utbildning/kursplan/5ma160/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5MA160&lt;/a&gt; in linear algebra aimed at first year students. We cover the usual elements of most linear algebra courses including solving systems of linear equations, manipulating matrices, computing eigenvalues, and working with the fundamental theorem of linear algebra. One goal of the course is to build geometric intuition in the students by studying vectors in 2 and 3 dimensional spaces so that they might better understand higher dimensional spaces. The course covers both abstract concepts such as the theory of general vector spaces as well as practical applications such as markov chains and networks. Students are evaluated by exams and a computer lab that requires the students to use MATLAB to apply their linear algebra knowledge.&lt;/p&gt;
+&lt;p&gt;The primary text is &lt;em&gt;Elementary linear algebra: with supplemental applications 12th edition&lt;/em&gt; by Anton Howard and Rorres Chris (ISBN 9781119666141). Additional material is drawn from &lt;em&gt;Introduction to Linear Algebra 4th edition&lt;/em&gt; by Gilbert Strang, &lt;em&gt;Linear Algebra 3rd edition&lt;/em&gt; by Jim Hefferon, and videos by 3blue1brown on the &lt;a href=&#34;https://www.3blue1brown.com/essence-of-linear-algebra-page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essence of linear algebra&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New arrivals</title>
+      <link>http://ericlibby.github.io/news/josephine_lucas_arrival/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/news/josephine_lucas_arrival/</guid>
+      <description>&lt;p&gt;We are happy to welcome new members to our group. Josephine Solowiej-Wedderburn joins us as part of an IceLab multidisciplinary postdoc program team that includes PIs Peter Lind, Ludvig Lizana, and Björn Schröder. Lucas Santana Souza joins us as part of Kempe funded postdoc on the evolution of endosymbioses.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
