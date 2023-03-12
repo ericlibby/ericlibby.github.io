@@ -5,12 +5,42 @@
     <link>http://ericlibby.github.io/tag/academic/</link>
       <atom:link href="http://ericlibby.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>http://ericlibby.github.io/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>EMBL symbiosis symposium</title>
+      <link>http://ericlibby.github.io/news/embl-workshop/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/news/embl-workshop/</guid>
+      <description>&lt;p&gt;Josephine and I were lucky to attend the EMBL symposium on &lt;a href=&#34;https://www.embl.org/about/info/course-and-conference-office/events/ees23-01/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The cellular mechanics of symbiosis&amp;rdquo;&lt;/a&gt;. Josephine presented a poster called &amp;ldquo;How does the environment shape bacterial symbiosis&amp;rdquo; and I gave a talk entitled &amp;ldquo;The rarity of prokaryote endosymbioses&amp;rdquo;. The symposium was a great opportunity to learn about a variety of cool model systems and techniques for studying the mechanisms of symbioses. We thank the organizers and all the participants for making us feel so welcome.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./josephineposter.jpg&#34; alt=&#34;jpg&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>We are recruiting a PhD student</title>

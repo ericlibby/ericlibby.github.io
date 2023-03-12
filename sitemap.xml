@@ -11,7 +11,27 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://ericlibby.github.io/tag/academic/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://ericlibby.github.io/categories/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://ericlibby.github.io/news/embl-workshop/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://ericlibby.github.io/news/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://ericlibby.github.io/category/research/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://ericlibby.github.io/tags/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://ericlibby.github.io/project/agnostic-biosignatures/</loc>
@@ -28,10 +48,6 @@
   </url><url>
     <loc>http://ericlibby.github.io/tag/biosignatures/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://ericlibby.github.io/categories/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://ericlibby.github.io/tag/endosymbiosis/</loc>
@@ -64,10 +80,6 @@
   </url><url>
     <loc>http://ericlibby.github.io/tag/multicellularity/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://ericlibby.github.io/news/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://ericlibby.github.io/people/</loc>
@@ -112,10 +124,6 @@
   </url><url>
     <loc>http://ericlibby.github.io/project/syntrophy/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://ericlibby.github.io/tags/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://ericlibby.github.io/project/multicellularity/</loc>
@@ -244,14 +252,6 @@
   </url><url>
     <loc>http://ericlibby.github.io/publication/pentz-2020-ecological/</loc>
     <lastmod>2023-02-27T10:58:45+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://ericlibby.github.io/news/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://ericlibby.github.io/news/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://ericlibby.github.io/slides/</loc>
