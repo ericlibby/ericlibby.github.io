@@ -5,12 +5,48 @@
     <link>http://ericlibby.github.io/teaching/</link>
       <atom:link href="http://ericlibby.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
       <link>http://ericlibby.github.io/teaching/</link>
     </image>
+    
+    <item>
+      <title>IceLab camp</title>
+      <link>http://ericlibby.github.io/teaching/icelab_camp/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/teaching/icelab_camp/</guid>
+      <description>&lt;h2 id=&#34;icelab-camp-co-organizer-with-martin-rosvall-and-gabrielle-beans&#34;&gt;IceLab Camp (co-organizer with Martin Rosvall and Gabrielle Beans)&lt;/h2&gt;
+&lt;p&gt;Many grand research challenges of the future exist in the unexplored terrain between traditional disciplines. IceLab Camp prepares early career scientists for the multidisciplinary endeavour.&lt;/p&gt;
+&lt;p&gt;We approach research questions from different scientific directions through cumulative cycles of generation, analysis, rejection, and acceptance of ideas, and, in the collaborative process of repeatedly zooming in on the details and out on the big picture, improve each participant’s ability to express ideas, give and take constructive criticism, and interact with researchers from a wide range of backgrounds.&lt;/p&gt;
+&lt;p&gt;Participants work in multidisciplinary teams to develop a small research project and write it up in a proposal. We use the first day or two to converge on different research questions and the following days to find the best theoretical or experimental framework to answer those questions. On the last day, we review each team’s proposal. Between sessions of project work, we sandwich in various exercises and interactive games to break open the boundaries of creativity.&lt;/p&gt;
+&lt;p&gt;The camp takes place at beautiful &lt;a href=&#34;https://granobeckasin.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Granö Beckasin&lt;/a&gt;, an eco-hotel surrounded by nature, upriver from Umeå, during the peak of autumn splendor. Course sessions are held in the treetop glass meeting room, and group work is done anywhere you find inspiration. Take nature walks for brain breaks, or a cold river swim after a sauna on the last night.&lt;/p&gt;
+&lt;p&gt;Last offered: Fall 2024 (offered every fall)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Dynamics and Chaos</title>
+      <link>http://ericlibby.github.io/teaching/nonlinear_dynamics/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/teaching/nonlinear_dynamics/</guid>
+      <description>&lt;h2 id=&#34;phd-course-nonlinear-dynamics-and-chaos-course-coordinator&#34;&gt;PhD course Nonlinear Dynamics and Chaos (Course coordinator)&lt;/h2&gt;
+&lt;p&gt;Nonlinear dynamics is an area of mathematics with a wealth of applications to biology and physics. This course delves into the behavior of nonlinear systems, which often exhibit unpredictable and complex behavior. Unlike linear systems, whose outputs are directly proportional to their inputs, nonlinear systems can demonstrate a wide variety of phenomena, including sensitivity to initial conditions, bifurcations, and strange attractors. This course will explore the mathematical underpinnings of these phenomena, using both analytical and computational techniques. The purpose of this course is to provide an introduction to the topic as we work through a well-known textbook (a classic) on the subject. By the end of this course, students should be equipped to analyze and predict the behavior of nonlinear systems.
+Below are a sample of the topics the course covers.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;flows on lines and circles&lt;/li&gt;
+&lt;li&gt;stability and bifurcation analyses&lt;/li&gt;
+&lt;li&gt;limit cycles&lt;/li&gt;
+&lt;li&gt;fractals&lt;/li&gt;
+&lt;li&gt;oscillators&lt;/li&gt;
+&lt;li&gt;chaos and strange attractors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We also study many fun problems with enticing names including: “rabbits vs sheep”, “love affairs”, and “fireflies”.&lt;/p&gt;
+&lt;p&gt;The primary text is &lt;em&gt;Nonlinear Dynamics and Chaos With Applications to Physics, Biology, Chemistry, and Engineering&lt;/em&gt; by Steven Strogatz (ISBN 9780367026509). Additional material is drawn from the excellent nonlinear dynamics course offerings on &lt;a href=&#34;https://www.complexityexplorer.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Complexity Explorer&lt;/a&gt; led by Liz Bradley.&lt;/p&gt;
+&lt;p&gt;Last offered: Fall 2024&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fundamental mathematical models in evolution</title>
@@ -33,6 +69,7 @@
 &lt;li&gt;Lecture 11: NK model&lt;/li&gt;
 &lt;li&gt;Lecture 12: Cellular automata and digital evolution (AVIDA)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;Last offered: Fall 2024&lt;/p&gt;
 </description>
     </item>
     
@@ -43,6 +80,7 @@
       <guid>http://ericlibby.github.io/teaching/differential_equations/</guid>
       <description>&lt;p&gt;This is the basic course &lt;a href=&#34;https://www.umu.se/utbildning/kursplan/5ma121/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5MA121&lt;/a&gt; in differential equations aimed at second year students. The course covers the formulating and solving first and second order ordinary differential equations. Additional topics include nonlinear dynamics, the Laplace transform, Fourier series, and an introduction to solving partial differential equations. Emphasis is placed on teaching students different ways to model physical and biological systems with differential equations. Students are evaluated by exams and a computer lab that requires the students to use MATLAB to numerically solve differential equations.&lt;/p&gt;
 &lt;p&gt;The primary text is &lt;em&gt;Elementary Differential Equations and Boundary Value Problems 2017 edition&lt;/em&gt; by William Boyce (ISBN 9781119382874). Additional material is drawn from &lt;em&gt;Nonlinear Dynamics and Chaos&lt;/em&gt; by Steven Strogatz and &lt;em&gt;Understanding Nonlinear Dynamics&lt;/em&gt; by Daniel Kaplan and Leon Glass.&lt;/p&gt;
+&lt;p&gt;Last offered: Spring 2024&lt;/p&gt;
 </description>
     </item>
     
@@ -70,6 +108,7 @@
       <guid>http://ericlibby.github.io/teaching/linear_algebra/</guid>
       <description>&lt;p&gt;This is the basic course &lt;a href=&#34;https://www.umu.se/utbildning/kursplan/5ma160/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5MA160&lt;/a&gt; in linear algebra aimed at first year students. We cover the usual elements of most linear algebra courses including solving systems of linear equations, manipulating matrices, computing eigenvalues, and working with the fundamental theorem of linear algebra. One goal of the course is to build geometric intuition in the students by studying vectors in 2 and 3 dimensional spaces so that they might better understand higher dimensional spaces. The course covers both abstract concepts such as the theory of general vector spaces as well as practical applications such as markov chains and networks. Students are evaluated by exams and a computer lab that requires the students to use MATLAB to apply their linear algebra knowledge.&lt;/p&gt;
 &lt;p&gt;The primary text is &lt;em&gt;Elementary linear algebra: with supplemental applications 12th edition&lt;/em&gt; by Anton Howard and Rorres Chris (ISBN 9781119666141). Additional material is drawn from &lt;em&gt;Introduction to Linear Algebra 4th edition&lt;/em&gt; by Gilbert Strang, &lt;em&gt;Linear Algebra 3rd edition&lt;/em&gt; by Jim Hefferon, and videos by 3blue1brown on the &lt;a href=&#34;https://www.3blue1brown.com/essence-of-linear-algebra-page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Essence of linear algebra&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Last offered: Spring 2024&lt;/p&gt;
 </description>
     </item>
     

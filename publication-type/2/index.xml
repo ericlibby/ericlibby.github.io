@@ -5,7 +5,7 @@
     <link>http://ericlibby.github.io/publication-type/2/</link>
       <atom:link href="http://ericlibby.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,394 +13,986 @@
     </image>
     
     <item>
-      <title>Emergence and maintenance of stable coexistence during a long-term multicellular evolution experiment</title>
-      <link>http://ericlibby.github.io/publication/pineau-2023-emergence/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/pineau-2023-emergence/</guid>
+      <title>Adaptive evolutionary trajectories in complexity: Transitions between unicellularity and facultative differentiated multicellularity</title>
+      <link>http://ericlibby.github.io/archived/publication_old/isaksson2025adaptive/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/archived/publication_old/isaksson2025adaptive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clonal development, not aggregation, drives the transition to multicellularity in an isogenic model system</title>
-      <link>http://ericlibby.github.io/publication/pentz-2022-clonal/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/pentz-2022-clonal/</guid>
+      <title>Adaptive evolutionary trajectories in complexity: Transitions between unicellularity and facultative differentiated multicellularity</title>
+      <link>http://ericlibby.github.io/publication/isaksson2025adaptive/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/isaksson2025adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting proximity ligation assay and k-mer enrichment for agnostic life detection</title>
+      <link>http://ericlibby.github.io/publication/maggiori2024adapting/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/maggiori2024adapting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competition and cooperation: The plasticity of bacteria interactions across environments</title>
+      <link>http://ericlibby.github.io/publication/solowiej2024competition/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/solowiej2024competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological resource competition as a driver of metallome evolution</title>
+      <link>http://ericlibby.github.io/publication/sobol2024ecological/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/sobol2024ecological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence and maintenance of stable coexistence during a long-term multicellular evolution experiment</title>
+      <link>http://ericlibby.github.io/publication/pineau2024emergence/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/pineau2024emergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundamental constraints to the logic of living systems</title>
+      <link>http://ericlibby.github.io/publication/sole2024fundamental/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/sole2024fundamental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling endosymbioses: Insights and hypotheses from theoretical approaches</title>
+      <link>http://ericlibby.github.io/publication/souza2024modeling/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/souza2024modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overexpression of the plastidial pseudo-protease AtFtsHi3 enhances drought tolerance while sustaining plant growth</title>
+      <link>http://ericlibby.github.io/publication/mishra2024overexpression/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/mishra2024overexpression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Division of labor promotes the entrenchment of multicellularity</title>
+      <link>http://ericlibby.github.io/publication/conlin2023division/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/conlin2023division/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence and maintenance of stable coexistence during a long-term multicellular evolution experiment</title>
+      <link>http://ericlibby.github.io/archived/publication_old/pineau-2023-emergence/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/archived/publication_old/pineau-2023-emergence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary consequences of nascent multicellular life cycles</title>
-      <link>http://ericlibby.github.io/publication/pentz-2022-evolutionary/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/pentz-2022-evolutionary/</guid>
+      <link>http://ericlibby.github.io/publication/pentz2023evolutionary/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/pentz2023evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metabolic compatibility and the rarity of prokaryote endosymbioses</title>
-      <link>http://ericlibby.github.io/publication/libby-2022-metabolic/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2022-metabolic/</guid>
+      <link>http://ericlibby.github.io/publication/libby2023metabolic/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2023metabolic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minor variations in multicellular life cycles have major effects on adaptation</title>
-      <link>http://ericlibby.github.io/publication/isaksson-2022-minor/</link>
+      <link>http://ericlibby.github.io/publication/isaksson2023minor/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/isaksson2023minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Agnostic Biosignatures from Nextgen Chemometrics Data</title>
+      <link>http://ericlibby.github.io/publication/wentzell2022analysis/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/isaksson-2022-minor/</guid>
+      <guid>http://ericlibby.github.io/publication/wentzell2022analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonal development, not aggregation, drives the transition to multicellularity in an isogenic model system</title>
+      <link>http://ericlibby.github.io/archived/publication_old/pentz-2022-clonal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/archived/publication_old/pentz-2022-clonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clonal development, not aggregation, drives the transition to multicellularity in an isogenic model system</title>
+      <link>http://ericlibby.github.io/publication/pentz2022clonal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/pentz2022clonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting signatures of evolution in in silico polymer populations</title>
+      <link>http://ericlibby.github.io/publication/grefenstette2022detecting/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/grefenstette2022detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Division of Labor Following the Evolution of Multicellularity Promotes Entrenchment</title>
+      <link>http://ericlibby.github.io/publication/conlin2022division/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/conlin2022division/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emergence and Maintenance of Stable Coexistence in Snowflake Yeast Long Term Evolution Experiment</title>
+      <link>http://ericlibby.github.io/publication/pineau2022emergence/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/pineau2022emergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary consequences of nascent multicellular life cycles</title>
+      <link>http://ericlibby.github.io/archived/publication_old/pentz-2022-evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/archived/publication_old/pentz-2022-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metabolic compatibility and the rarity of prokaryote endosymbioses</title>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2022-metabolic/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2022-metabolic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minor variations in multicellular life cycles have major effects on adaptation</title>
+      <link>http://ericlibby.github.io/archived/publication_old/isaksson-2022-minor/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/archived/publication_old/isaksson-2022-minor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-species multicellular life cycles</title>
+      <link>http://ericlibby.github.io/publication/andersson2022multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/andersson2022multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overexpression of the plastidal pseudo-protease AtFtsHi3 confers drought tolerance without penalizing growth</title>
-      <link>http://ericlibby.github.io/publication/cook-2022-overexpression/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/cook-2022-overexpression/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/cook-2022-overexpression/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/cook-2022-overexpression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overexpression of the plastidal pseudo-protease AtFtsHi3 confers drought tolerance without penalizing growth</title>
+      <link>http://ericlibby.github.io/publication/cook2022overexpression/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/cook2022overexpression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lichens and microbial syntrophies offer models for an interdependent route to multicellularity</title>
-      <link>http://ericlibby.github.io/publication/libby-2021-lichens/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2021-lichens/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2021-lichens/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2021-lichens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichens and microbial syntrophies offer models for an interdependent route to multicellularity</title>
+      <link>http://ericlibby.github.io/publication/libby2021lichens/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2021lichens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxygen suppression of macroscopic multicellularity</title>
-      <link>http://ericlibby.github.io/publication/bozdag-2021-oxygen/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/bozdag-2021-oxygen/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/bozdag-2021-oxygen/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/bozdag-2021-oxygen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygen suppression of macroscopic multicellularity</title>
+      <link>http://ericlibby.github.io/publication/bozdag2021oxygen/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/bozdag2021oxygen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The consequences of budding versus binary fission on adaptation and aging in primitive multicellularity</title>
-      <link>http://ericlibby.github.io/publication/isaksson-2021-consequences/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/isaksson-2021-consequences/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/isaksson-2021-consequences/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/isaksson-2021-consequences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The consequences of budding versus binary fission on adaptation and aging in primitive multicellularity</title>
+      <link>http://ericlibby.github.io/publication/isaksson2021consequences/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/isaksson2021consequences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The grayness of the origin of life</title>
-      <link>http://ericlibby.github.io/publication/smith-2021-grayness/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/smith-2021-grayness/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/smith-2021-grayness/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/smith-2021-grayness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The grayness of the origin of life</title>
+      <link>http://ericlibby.github.io/publication/smith2021grayness/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/smith2021grayness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a more universal life detection strategy</title>
-      <link>http://ericlibby.github.io/publication/chou-2021-towards/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/chou-2021-towards/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/chou-2021-towards/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/chou-2021-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a more universal life detection strategy</title>
+      <link>http://ericlibby.github.io/publication/chou2021towards/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/chou2021towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agnostic approaches to extant life detection on Ocean Worlds</title>
+      <link>http://ericlibby.github.io/publication/graham2020agnostic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/graham2020agnostic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecological advantages and evolutionary limitations of aggregative multicellular development</title>
-      <link>http://ericlibby.github.io/publication/pentz-2020-ecological/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/pentz-2020-ecological/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/pentz-2020-ecological/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/pentz-2020-ecological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological advantages and evolutionary limitations of aggregative multicellular development</title>
+      <link>http://ericlibby.github.io/publication/pentz2020ecological/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/pentz2020ecological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agnostic approaches to extant life detection</title>
-      <link>http://ericlibby.github.io/publication/johnson-2019-agnostic/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/johnson-2019-agnostic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/johnson-2019-agnostic/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/johnson-2019-agnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agnostic approaches to extant life detection</title>
+      <link>http://ericlibby.github.io/publication/johnson2019agnostic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/johnson2019agnostic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamics of beneficial epidemics</title>
-      <link>http://ericlibby.github.io/publication/berdahl-2019-dynamics/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/berdahl-2019-dynamics/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/berdahl-2019-dynamics/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/berdahl-2019-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of beneficial epidemics</title>
+      <link>http://ericlibby.github.io/publication/berdahl2019dynamics/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/berdahl2019dynamics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environmentally mediated social dilemmas</title>
-      <link>http://ericlibby.github.io/publication/estrela-2019-environmentally/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/estrela-2019-environmentally/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/estrela-2019-environmentally/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/estrela-2019-environmentally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmentally mediated social dilemmas</title>
+      <link>http://ericlibby.github.io/publication/estrela2019environmentally/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/estrela2019environmentally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fragmentation mapping for molecular complexity metrics with flight capable ion traps</title>
+      <link>http://ericlibby.github.io/publication/graham2019fragmentation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/graham2019fragmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future approaches to life detection on Mars</title>
+      <link>http://ericlibby.github.io/publication/johnson2019future/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/johnson2019future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical, Computational, and Data Sciences Explorations for Astrobiology I</title>
+      <link>http://ericlibby.github.io/publication/berea2019mathematical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/berea2019mathematical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularity of the life cycle</title>
-      <link>http://ericlibby.github.io/publication/libby-2019-modularity/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2019-modularity/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2019-modularity/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2019-modularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modularity of the life cycle</title>
+      <link>http://ericlibby.github.io/publication/libby2019modularity/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2019modularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygen and the evolution of multicellular size: hypothesis testing via long-term experimental evolution</title>
+      <link>http://ericlibby.github.io/publication/bozdag2019oxygen/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/bozdag2019oxygen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting mutational routes to new adaptive phenotypes</title>
-      <link>http://ericlibby.github.io/publication/lind-2019-predicting/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/lind-2019-predicting/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/lind-2019-predicting/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/lind-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting mutational routes to new adaptive phenotypes</title>
+      <link>http://ericlibby.github.io/publication/lind2019predicting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/lind2019predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic models for predicting mutational routes to new adaptive phenotypes</title>
+      <link>http://ericlibby.github.io/publication/libby2019probabilistic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2019probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Models for Predicting Mutational Routes to New Adaptive Phenotypes</title>
-      <link>http://ericlibby.github.io/publication/libby-2019-probabilistic/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2019-probabilistic/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2019-probabilistic/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2019-probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortsighted evolution constrains the efficacy of long-term bet hedging</title>
-      <link>http://ericlibby.github.io/publication/libby-2019-shortsighted/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2019-shortsighted/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2019-shortsighted/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2019-shortsighted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortsighted evolution constrains the efficacy of long-term bet hedging</title>
+      <link>http://ericlibby.github.io/publication/libby2019shortsighted/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2019shortsighted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntrophy emerges spontaneously in complex metabolic systems</title>
-      <link>http://ericlibby.github.io/publication/libby-2019-syntrophy/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2019-syntrophy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2019-syntrophy/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2019-syntrophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntrophy emerges spontaneously in complex metabolic systems</title>
+      <link>http://ericlibby.github.io/publication/libby2019syntrophy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2019syntrophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Laboratory for Agnostic Biosignatures Project</title>
+      <link>http://ericlibby.github.io/publication/johnson2019laboratory/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/johnson2019laboratory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agnostic Approaches to Life Detection</title>
-      <link>http://ericlibby.github.io/publication/johnson-2018-agnostic/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/johnson-2018-agnostic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/johnson-2018-agnostic/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/johnson-2018-agnostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agnostic Approaches to Life Detection</title>
+      <link>http://ericlibby.github.io/publication/johnson2018agnostic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/johnson2018agnostic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmed cell death can increase the efficacy of microbial bet hedging</title>
-      <link>http://ericlibby.github.io/publication/libby-2018-programmed/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2018-programmed/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2018-programmed/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2018-programmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmed cell death can increase the efficacy of microbial bet hedging</title>
+      <link>http://ericlibby.github.io/publication/libby2018programmed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2018programmed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publisher Correction: Programmed cell death can increase the efficacy of microbial bet hedging</title>
-      <link>http://ericlibby.github.io/publication/libby-2018-publisher/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2018-publisher/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2018-publisher/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2018-publisher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher Correction: Programmed cell death can increase the efficacy of microbial bet hedging</title>
+      <link>http://ericlibby.github.io/publication/libby2018publisher/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2018publisher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>10 The Many Faces of State Space Compression</title>
-      <link>http://ericlibby.github.io/publication/wolpert-201710/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/wolpert-201710/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/wolpert-201710/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/wolpert-201710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>10 The Many Faces of State Space Compression</title>
+      <link>http://ericlibby.github.io/publication/wolpert201710/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/wolpert201710/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers of bacterial maintenance and minimal energy requirements</title>
-      <link>http://ericlibby.github.io/publication/kempes-2017-drivers/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/kempes-2017-drivers/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/kempes-2017-drivers/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/kempes-2017-drivers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of bacterial maintenance and minimal energy requirements</title>
+      <link>http://ericlibby.github.io/publication/kempes2017drivers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/kempes2017drivers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nascent life cycles and the emergence of higher-level individuality</title>
-      <link>http://ericlibby.github.io/publication/ratcliff-2017-nascent/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/ratcliff-2017-nascent/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/ratcliff-2017-nascent/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/ratcliff-2017-nascent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nascent life cycles and the emergence of higher-level individuality</title>
+      <link>http://ericlibby.github.io/publication/ratcliff2017nascent/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/ratcliff2017nascent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paradoxes in leaky microbial trade</title>
-      <link>http://ericlibby.github.io/publication/kallus-2017-paradoxes/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/kallus-2017-paradoxes/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/kallus-2017-paradoxes/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/kallus-2017-paradoxes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradoxes in leaky microbial trade</title>
+      <link>http://ericlibby.github.io/publication/kallus2017paradoxes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/kallus2017paradoxes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Strategic tradeoffs in competitor dynamics on adaptive networks</title>
-      <link>http://ericlibby.github.io/publication/hebert-2017-strategic/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/hebert-2017-strategic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/hebert-2017-strategic/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/hebert-2017-strategic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strategic tradeoffs in competitor dynamics on adaptive networks</title>
+      <link>http://ericlibby.github.io/publication/hebert2017strategic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/hebert2017strategic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells</title>
-      <link>http://ericlibby.github.io/publication/tavera-2017-vitamin/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/tavera-2017-vitamin/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/tavera-2017-vitamin/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/tavera-2017-vitamin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitamin D receptor regulates autophagy in the normal mammary gland and in luminal breast cancer cells</title>
+      <link>http://ericlibby.github.io/publication/tavera2017vitamin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/tavera2017vitamin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epigenetic inheritance systems contribute to the evolution of a germline</title>
-      <link>http://ericlibby.github.io/publication/lachmann-2016-epigenetic/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/lachmann-2016-epigenetic/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/lachmann-2016-epigenetic/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/lachmann-2016-epigenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenetic inheritance systems contribute to the evolution of a germline</title>
+      <link>http://ericlibby.github.io/publication/lachmann2016epigenetic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/lachmann2016epigenetic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of regulated phenotypic expression during a transition to multicellularity</title>
-      <link>http://ericlibby.github.io/publication/wolinsky-2016-evolution/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/wolinsky-2016-evolution/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/wolinsky-2016-evolution/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/wolinsky-2016-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of regulated phenotypic expression during a transition to multicellularity</title>
+      <link>http://ericlibby.github.io/publication/wolinsky2016evolution/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/wolinsky2016evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stabilizing multicellularity through ratcheting</title>
-      <link>http://ericlibby.github.io/publication/libby-2016-stabilizing/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2016-stabilizing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2016-stabilizing/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2016-stabilizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stabilizing multicellularity through ratcheting</title>
+      <link>http://ericlibby.github.io/publication/libby2016stabilizing/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2016stabilizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bistability in a metabolic network underpins the de novo evolution of colony switching in Pseudomonas fluorescens</title>
-      <link>http://ericlibby.github.io/publication/gallie-2015-bistability/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/gallie-2015-bistability/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/gallie-2015-bistability/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/gallie-2015-bistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bistability in a metabolic network underpins the de novo evolution of colony switching in Pseudomonas fluorescens</title>
+      <link>http://ericlibby.github.io/publication/gallie2015bistability/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/gallie2015bistability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courting disaster: How diversification rate affects fitness under risk</title>
-      <link>http://ericlibby.github.io/publication/ratcliff-2015-courting/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/ratcliff-2015-courting/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/ratcliff-2015-courting/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/ratcliff-2015-courting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courting disaster: How diversification rate affects fitness under risk</title>
+      <link>http://ericlibby.github.io/publication/ratcliff2015courting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/ratcliff2015courting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foraging behaviour and habitat use of chick-rearing Australasian Gannets in New Zealand</title>
-      <link>http://ericlibby.github.io/publication/machovsky-2014-foraging/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/machovsky-2014-foraging/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/machovsky-2014-foraging/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/machovsky-2014-foraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foraging behaviour and habitat use of chick-rearing Australasian Gannets in New Zealand</title>
+      <link>http://ericlibby.github.io/publication/machovsky2014foraging/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/machovsky2014foraging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometry Shapes Evolution of Early Multicellularity</title>
-      <link>http://ericlibby.github.io/publication/libby-2014-geometry/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2014-geometry/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2014-geometry/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2014-geometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry Shapes Evolution of Early Multicellularity</title>
+      <link>http://ericlibby.github.io/publication/libby2014geometry/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2014geometry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ratcheting the evolution of multicellularity</title>
-      <link>http://ericlibby.github.io/publication/libby-2014-ratcheting/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2014-ratcheting/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2014-ratcheting/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2014-ratcheting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ratcheting the evolution of multicellularity</title>
+      <link>http://ericlibby.github.io/publication/libby2014ratcheting/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2014ratcheting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The contribution of private and public information in foraging by Australasian gannets</title>
-      <link>http://ericlibby.github.io/publication/machovsky-2014-contribution/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/machovsky-2014-contribution/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/machovsky-2014-contribution/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/machovsky-2014-contribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The contribution of private and public information in foraging by Australasian gannets</title>
+      <link>http://ericlibby.github.io/publication/machovsky2014contribution/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/machovsky2014contribution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A conceptual framework for the evolutionary origins of multicellularity</title>
-      <link>http://ericlibby.github.io/publication/libby-2013-conceptual/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2013-conceptual/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2013-conceptual/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2013-conceptual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conceptual framework for the evolutionary origins of multicellularity</title>
+      <link>http://ericlibby.github.io/publication/libby2013conceptual/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2013conceptual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eco-evolutionary feedback and the tuning of proto-developmental life cycles</title>
-      <link>http://ericlibby.github.io/publication/libby-2013-eco/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2013-eco/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2013-eco/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2013-eco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco-evolutionary feedback and the tuning of proto-developmental life cycles</title>
+      <link>http://ericlibby.github.io/publication/libby2013eco/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2013eco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demographic variation in community-based MRSA skin and soft tissue infection in Auckland, New Zealand</title>
-      <link>http://ericlibby.github.io/publication/ritchie-2011-demographic/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/ritchie-2011-demographic/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/ritchie-2011-demographic/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/ritchie-2011-demographic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographic variation in community-based MRSA skin and soft tissue infection in Auckland, New Zealand</title>
+      <link>http://ericlibby.github.io/publication/ritchie2011demographic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/ritchie2011demographic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exclusion rules, bottlenecks and the evolution of stochastic phenotype switching</title>
-      <link>http://ericlibby.github.io/publication/libby-2011-exclusion/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2011-exclusion/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2011-exclusion/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2011-exclusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exclusion rules, bottlenecks and the evolution of stochastic phenotype switching</title>
+      <link>http://ericlibby.github.io/publication/libby2011exclusion/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2011exclusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolutionary emergence of stochastic phenotype switching in bacteria</title>
+      <link>http://ericlibby.github.io/publication/rainey2011evolutionary/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/rainey2011evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The calculus of committee composition</title>
-      <link>http://ericlibby.github.io/publication/libby-2010-calculus/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2010-calculus/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2010-calculus/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2010-calculus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The calculus of committee composition</title>
+      <link>http://ericlibby.github.io/publication/libby2010calculus/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2010calculus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential behaviors of atrial versus ventricular fibroblasts: a potential role for platelet-derived growth factor in atrial-ventricular remodeling differences</title>
-      <link>http://ericlibby.github.io/publication/burstein-2008-differential/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/burstein-2008-differential/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/burstein-2008-differential/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/burstein-2008-differential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential behaviors of atrial versus ventricular fibroblasts: a potential role for platelet-derived growth factor in atrial-ventricular remodeling differences</title>
+      <link>http://ericlibby.github.io/publication/burstein2008differential/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/burstein2008differential/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marked differences between atrial and ventricular gene-expression remodeling in dogs with experimental heart failure</title>
-      <link>http://ericlibby.github.io/publication/cardin-2008-marked/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/cardin-2008-marked/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/cardin-2008-marked/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/cardin-2008-marked/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marked differences between atrial and ventricular gene-expression remodeling in dogs with experimental heart failure</title>
+      <link>http://ericlibby.github.io/publication/cardin2008marked/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/cardin2008marked/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrasting gene expression profiles in two canine models of atrial fibrillation</title>
-      <link>http://ericlibby.github.io/publication/cardin-2007-contrasting/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/cardin-2007-contrasting/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/cardin-2007-contrasting/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/cardin-2007-contrasting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting gene expression profiles in two canine models of atrial fibrillation</title>
+      <link>http://ericlibby.github.io/publication/cardin2007contrasting/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/cardin2007contrasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigations into the design and dissection of genetic networks</title>
-      <link>http://ericlibby.github.io/publication/libby-2007-investigations/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2007-investigations/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2007-investigations/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2007-investigations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigations into the design and dissection of genetic networks</title>
+      <link>http://ericlibby.github.io/publication/libby2007investigations/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2007investigations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noisy information processing through transcriptional regulation</title>
-      <link>http://ericlibby.github.io/publication/libby-2007-noisy/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/libby-2007-noisy/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/libby-2007-noisy/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/libby-2007-noisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy information processing through transcriptional regulation</title>
+      <link>http://ericlibby.github.io/publication/libby2007noisy/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libby2007noisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atrial fibroblasts are different from ventricular: Explanation of atrial-ventricular remodeling differences in congestive heart failure?</title>
+      <link>http://ericlibby.github.io/publication/burstein2006atrial/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/burstein2006atrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atrial-profibrillatory remodeling: Pangenomic microarrays reveal marked differences in canine gene response between atrial tachycardia and heart failure paradigms</title>
+      <link>http://ericlibby.github.io/publication/cardin2005atrial/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/cardin2005atrial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large-scale in silico and microarray-based identification of direct 1, 25-dihydroxyvitamin D3 target genes</title>
-      <link>http://ericlibby.github.io/publication/wang-2005-large/</link>
+      <link>http://ericlibby.github.io/archived/publication_old/wang-2005-large/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/publication/wang-2005-large/</guid>
+      <guid>http://ericlibby.github.io/archived/publication_old/wang-2005-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale in silico and microarray-based identification of direct 1, 25-dihydroxyvitamin D3 target genes</title>
+      <link>http://ericlibby.github.io/publication/wang2005large/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/wang2005large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmed cell death can increase the efficacy of microbial</title>
+      <link>http://ericlibby.github.io/publication/libbyprogrammed/</link>
+      <pubDate>Sat, 01 Jan 0000 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libbyprogrammed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-dependent fitness effects can drive bet-hedging</title>
+      <link>http://ericlibby.github.io/publication/libbytime/</link>
+      <pubDate>Sat, 01 Jan 0000 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/publication/libbytime/</guid>
       <description></description>
     </item>
     

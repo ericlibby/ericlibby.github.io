@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current | Eric Libby academic page</title>
+    <link>http://ericlibby.github.io/tag/current/</link>
+      <atom:link href="http://ericlibby.github.io/tag/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>Current</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Current</title>
+      <link>http://ericlibby.github.io/tag/current/</link>
+    </image>
+    
+    <item>
+      <title>Oleksandr (Sasha) Cherednichenko</title>
+      <link>http://ericlibby.github.io/people/sasha/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/sasha/</guid>
+      <description>&lt;p&gt;Sasha graduated from Moscow Institute of Physics and Technology, where for his master&amp;rsquo;s degree he applied deep learning methods to structural bioinformatics. At IceLab, he aims to use similar techniques to determine whether microbes can distinguish friends from foes. His PhD is a joint project with Eric Libby and Laura Carroll, funded through the SciLifeLab Data-Driven Life Science (DDLS) research school. In his free time, he plays chess and reads books. He enjoys the tranquility of the woods and the beauty of the natural world, but from a safe distance. He used to practice judo in high school and even managed to keep both of his arms functional.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Defne Plattürk</title>
+      <link>http://ericlibby.github.io/people/defne/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/defne/</guid>
+      <description>&lt;p&gt;Defne received her MSc degree in Mathematics from Izmir Institute of Technology. During her master’s degree, she studied ordinary and partial differential equations and their numerical solutions. She investigated the solution properties of physical and chemical problems as she implemented numerical algorithms to solve and/or simulate them. Beyond the academic realm, she is from Izmir and enjoys watching art house cinema, listening to timeless tunes, and spending time in nature through hiking and camping.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Suvam Roy</title>
+      <link>http://ericlibby.github.io/people/suvam/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/suvam/</guid>
+      <description>&lt;p&gt;Suvam completed his Master’s degree in Physics from the University of Calcutta. He then got a PhD in Mathematical Evolutionary Biology with Supratim Sengupta at the Indian Institute of Science Education and Research Kolkata, where he showed a plausible pathway for the emergence of primitive cells on the prebiotic Earth. He is now working on a collaborative postdoc with Peter Lind and Eric Libby.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lucas Santana Souza</title>
+      <link>http://ericlibby.github.io/people/lucas/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/lucas/</guid>
+      <description>&lt;p&gt;Lucas is an evolutionary biologist who uses mathematical models and computer simulations to study social evolution across biological scales. He completed his PhD at the University of Tennessee, USA. Now, he focuses on a key event during the evolution of life, endosymbiosis.  He loves coffee and sweets, making him a fan of Swedish Fika.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Josephine Solowiej-Wedderburn</title>
+      <link>http://ericlibby.github.io/people/josephine/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/josephine/</guid>
+      <description>&lt;p&gt;Josephine got her PhD in mechanobiology at the University of Surrey, UK. Now, she uses metabolic models to explore the impact of environmental conditions on microbial cooperation. She enjoys swing dancing, hiking and drinking endless cups of tea. She is excited for the Swedish winters and all the magic they hold.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eric Libby</title>
+      <link>http://ericlibby.github.io/people/eric/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/people/eric/</guid>
+      <description>&lt;p&gt;Eric splits his time between the interdisciplinary research center IceLab and the Department of Mathematics and Mathematical Statistics at Umeå University. He is captivated by the diverse spectrum of complex life and looks to explain its emergence and evolution. He likes gardening though it would be hard to tell based on his plants. He embraces many random interests depending on his surroundings&amp;mdash;currently they include falling in embarrassing ways while cross country skiing and trying to tame his kefir culture.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

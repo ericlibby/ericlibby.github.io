@@ -5,12 +5,30 @@
     <link>http://ericlibby.github.io/project/</link>
       <atom:link href="http://ericlibby.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ericlibby.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>http://ericlibby.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>The origins of multicellularity</title>
+      <link>http://ericlibby.github.io/project/multicellularity/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/project/multicellularity/</guid>
+      <description>&lt;p&gt;A pivotal innovation for life on earth was the evolution of multicellularity. This was not  a singular event but rather evolved in dozens of independent lineages. Understanding what led to the evolution of multicellularity is challenging; however, because the origins of multicellularity occurred millions of years ago and are largely absent from the fossil record. Recent experiments make it possible to study this pivotal event in the lab by using microorganisms to evolve primitive multicellularity &lt;I&gt; de novo &lt;/I&gt;. Such experimental systems provide excellent opportunities to test hypotheses about the conditions that facilitated the evolution of multicellularity. We collaborate with talented experimentalists like &lt;a href=&#34;https://ratclifflab.biosci.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;William Ratcliff&lt;/a&gt; to marry theory with empirical results and uncover general principles of how life evolves to be multicellular.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prokaryote endosymbioses</title>
+      <link>http://ericlibby.github.io/project/endosymbiosis/</link>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://ericlibby.github.io/project/endosymbiosis/</guid>
+      <description>&lt;p&gt;A key event during the evolution of life on earth was the endosymbiotic association that gave rise to mitochondria. This singular event offered cells a new source of energy and established the eukaryotic lineage, responsible for all large multicellular organisms. Despite its significance, little is known about the likelihood or significance of acquiring an organelle like the mitochondrion, in general. In collaboration with &lt;a href=&#34;https://www.santafe.edu/people/profile/chris-kempes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Kempes&lt;/a&gt; and &lt;a href=&#34;https://sustainability.asu.edu/person/jordan-okie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jordan Okie&lt;/a&gt;, we are working to fill in some of these knowledge gaps using eco-evolutionary modeling and allometric scaling. The aim is to uncover general principles that govern the probability, fitness consequences, and physiological tradeoffs of an endosymbiotic association.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Agnostic biosignatures</title>
@@ -31,29 +49,11 @@
     </item>
     
     <item>
-      <title>Prokaryote endosymbioses</title>
-      <link>http://ericlibby.github.io/project/endosymbiosis/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/project/endosymbiosis/</guid>
-      <description>&lt;p&gt;A key event during the evolution of life on earth was the endosymbiotic association that gave rise to mitochondria. This singular event offered cells a new source of energy and established the eukaryotic lineage, responsible for all large multicellular organisms. Despite its significance, little is known about the likelihood or significance of acquiring an organelle like the mitochondrion, in general. In collaboration with &lt;a href=&#34;https://www.santafe.edu/people/profile/chris-kempes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Kempes&lt;/a&gt; and &lt;a href=&#34;https://sustainability.asu.edu/person/jordan-okie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jordan Okie&lt;/a&gt;, we are working to fill in some of these knowledge gaps using eco-evolutionary modeling and allometric scaling. The aim is to uncover general principles that govern the probability, fitness consequences, and physiological tradeoffs of an endosymbiotic association.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Syntrophy and microbial trade</title>
       <link>http://ericlibby.github.io/project/syntrophy/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://ericlibby.github.io/project/syntrophy/</guid>
       <description>&lt;p&gt;Microbes live in complex communities where goods such as metabolites are produced and exchanged. These communities often exhibit division of labor and can allow a community to live in environments where no single organism could. Since these microbial relationships can persist across generations, they can be viewed as an alternative to a multicellular lifestyle. Understanding the evolution of these trading communities provides a clearer picture of the different routes by which life increases in complexity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The origins of multicellularity</title>
-      <link>http://ericlibby.github.io/project/multicellularity/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://ericlibby.github.io/project/multicellularity/</guid>
-      <description>&lt;p&gt;A pivotal innovation for life on earth was the evolution of multicellularity. This was not  a singular event but rather evolved in dozens of independent lineages. Understanding what led to the evolution of multicellularity is challenging; however, because the origins of multicellularity occurred millions of years ago and are largely absent from the fossil record. Recent experiments make it possible to study this pivotal event in the lab by using microorganisms to evolve primitive multicellularity &lt;I&gt; de novo &lt;/I&gt;. Such experimental systems provide excellent opportunities to test hypotheses about the conditions that facilitated the evolution of multicellularity. We collaborate with talented experimentalists like &lt;a href=&#34;https://ratclifflab.biosci.gatech.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;William Ratcliff&lt;/a&gt; to marry theory with empirical results and uncover general principles of how life evolves to be multicellular.&lt;/p&gt;
 </description>
     </item>
     
